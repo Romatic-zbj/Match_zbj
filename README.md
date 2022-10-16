@@ -1,2 +1,2 @@
 # Template-Matching-and-Feature-Matching
-some test about internship in Labworld
+some test about template matching and feature matching
